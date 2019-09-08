@@ -1,0 +1,1 @@
+2018-01-01 --> VendorID: 2 || passenger_count: 3 ||trip_distance: 4 || RatecodeID: 5 || store_and_fwd_flag: F ||PUILocationID: 6 || DOLocationID: 7 || payment_type: 8 || fare_amount: 9|| extra: 1 || mta_tax: 2 || tip_amount: 3 || tolls_amount: 4 || improvement_surcharge: 5 || total_amount: 6 || DOdatetime: 2019-01-01 || trip_duration: 9 ||
